@@ -1,0 +1,5 @@
+{
+    "GOOGLE_CLIENT_ID": "976950391231-e52pgouph58apvjljntnmns8ge2f6b9f.apps.googleusercontent.com",
+    "GOOGLE_AUTH_CALLBACK_URL": "https://localhost:7069/api/auth/google",
+    "FACEBOOK_ID": "534862011439654"
+  }
